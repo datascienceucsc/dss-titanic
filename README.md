@@ -1,5 +1,6 @@
 # Titanic: Machine Learning from Disaster
-*Data Science Slugs 11-02-2019*
+---
+Data Science Slugs - Winter 2019
 ---
 
 This is our repository for the Titanic competition on Kaggle.
