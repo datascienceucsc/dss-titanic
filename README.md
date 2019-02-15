@@ -39,14 +39,14 @@ I will list here as needed the Python libraries you will need to install through
 
 Create a folder to store our work on the project.
 
-```
+```bash
 $ mkdir DataScienceSlugs
 $ cd DataScienceSlugs
 ```
 
 Copy the repository to your local machine, adding it as a remote - Use the name and email you used on GitHub.
 
-```
+```bash
 $ git config --global user.name "Jonh Doe"
 $ git config --global user.email  jonhdoe@example.com
 $ git clone https://github.com/datascienceslugs
@@ -57,7 +57,7 @@ $ git clone https://github.com/datascienceslugs
 Navigate to the folder containing the project and then
 run
 
-```
+```bash
 $ git checkout testing
 $ git pull origin
 $ code [file you want to work on]
