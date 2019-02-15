@@ -1,15 +1,17 @@
 # Titanic: Machine Learning from Disaster
-Anders Poirel - Data Science Slugs - Winter 2019
+
 ---
 
-This is our repository for the Titanic competition on Kaggle.
+*Author:* Anders Poirel for Data Science Slugs
+
+This the Data Science Slugs team's repository for the [Titanic](https://www.kaggle.com/c/titanic) competition on Kaggle.
 
 ## Getting Started
 
 ### Software Prerequisites
 
 #### Github
-Go to [GitHub] and create a user account.
+Go to [GitHub](https://github.com/) and create a user account.
 Message Ryan Darling or Anders Poirel on Slack so that you can be added as a collaborator on the project on GitHub. This is will be necessary for pushing your contributions to our repo.
 
 #### Git
@@ -27,37 +29,44 @@ At each meeting, links to join a live code collaboration will be sent out throug
 *Note: this is only necessary if you intend to run the code on your local machine. You can get started without it. Also, a lot of the above software can be installed through Anaconda if you prefer.*
 
 Download the official installer [here](https://www.anaconda.com/distribution/#download-section). Be sure to select the **Python 3.7 version**. 
-I will list here the Python libraries you will need to install through Anaconda. 
+I will list here as needed the Python libraries you will need to install through Anaconda.
 
 ### Setting up your environment
 
 #### First time setup
+
 *Note: I highly recomend reading the first 2 chapter of the book ProGit, freely available online, to get a working knowledge of git *
 
-Create a folder to store our work on the project
+Create a folder to store our work on the project.
+
 ```
 $ mkdir DataScienceSlugs
 $ cd DataScienceSlugs
 ```
-Copy the repository to your local machine, adding it as a remote - Use the name and email you used on GitHUB
+
+Copy the repository to your local machine, adding it as a remote - Use the name and email you used on GitHub.
+
 ```
 $ git config --global user.name "Jonh Doe"
 $ git config --global user.email  jonhdoe@example.com
 $ git clone https://github.com/datascienceslugs
 ```
 
-#### Accessing  project
+#### Accessing the project
+
 Navigate to the folder containing the project and then
 run
+
 ```
 $ git checkout testing
 $ git pull origin
 $ code [file you want to work on]
 ```
-Which will open the appropriate file in VSCode
+
+Which will open the file in VSCode
 
 **All** work should be done on the testing branch, or even better, branches created specifically for the issue you want to work on.
 
 ## Contributing
----
+
 See [CONTRIBUTING.md](https://github.com/datascienceslugs/dss-titanic/blob/master/CONTRIBUTING.md) for guidelines on modifying the code.
