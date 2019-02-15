@@ -1,9 +1,25 @@
 # Titanic: Machine Learning from Disaster
-
+**Anders Poirel**
 Data Science Slugs - Winter 2019
 ---
 
-This is our repository for the Titanic competition on Kaggle.
-Keep your code to the testing branch for now, **do not** merge 
-into master for now!
+## Getting Started
+This is our repository for the Titanic competition on Kaggle. 
 
+
+### Software Prerequisites
+
+### Setting up your environment
+
+
+
+```
+$ mkdir DataScienceSlugs
+$ cd DataScienceSlugs
+$ git clone https://github.com/datascienceslugs
+$ cd dss-titanic
+```
+
+## Contributing
+---
+See [CONTRIBUTING.md]() for guidelines on modifying the code.
