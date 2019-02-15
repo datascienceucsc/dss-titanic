@@ -35,7 +35,7 @@ I will list here as needed the Python libraries you will need to install through
 
 #### First time setup
 
-*Note: I highly recomend reading the first 2 chapter of the book ProGit, freely available online, to get a working knowledge of git *
+*Note: I highly recomend reading the first 2 chapter of the book ProGit, freely available online, to get a working knowledge of git*
 
 Create a folder to store our work on the project.
 
