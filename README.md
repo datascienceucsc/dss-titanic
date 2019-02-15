@@ -1,6 +1,6 @@
 # Titanic: Machine Learning from Disaster
 
-*Author:* Anders Poirel for Data Science Slugs
+*Author:* Anders Poirel
 
 This the Data Science Slugs team's repository for the [Titanic](https://www.kaggle.com/c/titanic) competition on Kaggle.
 
