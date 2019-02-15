@@ -57,7 +57,7 @@ run
 
 ```bash
 $ git checkout testing
-$ git pull origin
+$ git pull origin testing
 $ code [file you want to work on]
 ```
 
