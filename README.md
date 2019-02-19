@@ -17,7 +17,7 @@ Get the official installer [here](https://git-scm.com/downloads). Be sure to sel
 You can also use a GUI for Git but knowing command line will make things much easier for everyone down the line. If you do not know any git, [Pro Git](https://git-scm.com/book/en/v2) is a great resource to get you started. 
 
 #### Visual Studio Code
-You can use any editor you like, but to participate in live code collaboartion you *will* need VS Code.
+You can use any editor you like, but to participate in live code collaboration you *will* need VS Code.
 Get the official installer [here](https://code.visualstudio.com/).
 Launch VS Code and in **Extensions** (*Ctrl+Shift+X*) search 'VS Live Share' and install. I also highly recommend installing the 'Python' package from Microsoft and  the 'Rainbow CSV' package, for improved Python and CSV support.
 
