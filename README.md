@@ -9,6 +9,7 @@ This the Data Science Slugs team's repository for the [Titanic](https://www.kagg
 ### Software Prerequisites
 
 #### Github
+
 Go to [GitHub](https://github.com/) and create a user account.
 Message Ryan Darling or Anders Poirel on Slack so that you can be added as a collaborator on the project on GitHub. This is will be necessary for pushing your contributions to our repo.
 
@@ -24,6 +25,7 @@ Launch VS Code and in **Extensions** (*Ctrl+Shift+X*) search 'VS Live Share' and
 At each meeting, links to join a live code collaboration will be sent out through Slack.
 
 #### Anaconda
+
 *Note: this is only necessary if you intend to run the code on your local machine. You can get started without it. Also, a lot of the above software can be installed through Anaconda if you prefer.*
 
 Download the official installer [here](https://www.anaconda.com/distribution/#download-section). Be sure to select the **Python 3.7 version**. 
@@ -33,7 +35,7 @@ I will list here as needed the Python libraries you will need to install through
 
 #### First time setup
 
-*Note: I highly recomend reading the first 2 chapter of the book ProGit, freely available online, to get a working knowledge of git*
+*Note: I highly recommend reading the first 2 chapter of the book ProGit, freely available online, to get a working knowledge of git*
 
 Create a folder to store our work on the project.
 
