@@ -15,4 +15,4 @@ Y = dataset.iloc[:, 1].values
 # replace missing data
 from sklearn.impute import SimpleImputer
 imputer = SimpleImputer(strategy= "mean", missing_values = np.nan)
-X = imputer.fit_transform.(X[:, 5])
+X[:, 3:4] = imputer.fit_transform(X[:, 3:4])
