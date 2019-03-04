@@ -1,4 +1,10 @@
-Toward Data Science:
+# Titanic: Machine Learning from Disaster
+
+*Author:* Ryan Darling
+
+This the Data Science Slugs team's list of resources for the [Titanic](https://www.kaggle.com/c/titanic) competition on Kaggle.
+
+## Toward Data Science:
 
 https://towardsdatascience.com/predicting-the-survival-of-titanic-passengers-30870ccc7e8
 
@@ -14,18 +20,15 @@ https://towardsdatascience.com/how-i-got-a-score-of-82-3-and-ended-up-being-in-t
 
 https://towardsdatascience.com/play-with-data-2a5db35b279c
 
-Kaggle:
+## Kaggle:
 
 https://www.kaggle.com/francksylla/titanic-machine-learning-from-disaster
 
-
-
-Github:
+## Github:
 
 https://github.com/agconti/kaggle-titanic
 
-
-Other:
+## Other:
 
 https://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html
 
