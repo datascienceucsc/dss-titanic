@@ -49,7 +49,7 @@ Copy the repository to your local machine, adding it as a remote - Use the name 
 ```bash
 $ git config --global user.name "Jonh Doe"
 $ git config --global user.email  jonhdoe@example.com
-$ git clone https://github.com/datascienceslugs
+$ git clone https://github.com/datascienceslugs/dss-titanic
 ```
 
 #### Accessing the project
